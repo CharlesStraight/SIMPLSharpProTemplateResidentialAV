@@ -6,7 +6,7 @@ using Crestron.SimplSharp;
 using Crestron.SimplSharpPro;
 using Crestron.SimplSharpPro.DM;
 
-namespace SIMPLSharpProTemplate
+namespace SIMPLSharpProTemplateResidentialAV
 {
     public class DMPS3AudioLevelControlLogic
     {

@@ -4,7 +4,7 @@ using Crestron.SimplSharpPro;                       	// For Basic SIMPL#Pro clas
 using Crestron.SimplSharpPro.DeviceSupport;         	// For Generic Device Support
 using Crestron.SimplSharpPro.UI;                        // For UI Devices.
 
-namespace SIMPLSharpProTemplate
+namespace SIMPLSharpProTemplateResidentialAV
 {
     public class UserInterface
     {

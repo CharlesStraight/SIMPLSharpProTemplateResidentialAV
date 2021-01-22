@@ -12,7 +12,7 @@ using Crestron.SimplSharpPro.DM.Endpoints.Transmitters;
 using Crestron.SimplSharpPro.DM.Endpoints.Receivers;
 
 
-namespace SIMPLSharpProTemplate
+namespace SIMPLSharpProTemplateResidentialAV
 {
     public class ControlSystem : CrestronControlSystem
     {

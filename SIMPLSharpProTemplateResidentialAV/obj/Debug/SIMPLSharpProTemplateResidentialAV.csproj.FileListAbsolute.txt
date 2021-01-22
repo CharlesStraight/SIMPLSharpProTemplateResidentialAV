@@ -11,3 +11,5 @@ C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpPr
 C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpProTemplateResidentialAV\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpProTemplateResidentialAV\obj\Debug\SIMPLSharpProTemplate.dll
 C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpProTemplateResidentialAV\obj\Debug\SIMPLSharpProTemplate.pdb
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpProTemplateResidentialAV\bin\Debug\Crestron.SimplSharpPro.Lighting.dll
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpProTemplateResidentialAV\bin\Debug\Crestron.SimplSharpPro.Shades.dll

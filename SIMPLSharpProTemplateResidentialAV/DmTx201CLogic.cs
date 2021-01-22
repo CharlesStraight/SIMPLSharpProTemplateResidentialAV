@@ -7,7 +7,7 @@ using Crestron.SimplSharpPro.DM;
 using Crestron.SimplSharpPro.DM.Endpoints;
 using Crestron.SimplSharpPro.DM.Endpoints.Transmitters;
 
-namespace SIMPLSharpProTemplate
+namespace SIMPLSharpProTemplateResidentialAV
 {
     public class DmTx201CLogic
     {

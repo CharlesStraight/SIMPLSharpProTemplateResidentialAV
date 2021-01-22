@@ -7,7 +7,7 @@ using Crestron.SimplSharpPro;
 using Crestron.SimplSharpPro.EthernetCommunication;
 
 
-namespace SIMPLSharpProTemplate
+namespace SIMPLSharpProTemplateResidentialAV
 {
     public class EISCLogic
     {

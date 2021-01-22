@@ -1,4 +1,4 @@
-﻿MainAssembly=SIMPLSharpProTemplate.dll:4aeacf2f4e1114813dd1ebbcbc436dce
+﻿MainAssembly=SIMPLSharpProTemplate.dll:3634c2a93f07cd18c6ee32fd8d503615
 MainAssemblyMinFirmwareVersion=1.009.0029
 MainAssemblyResource=SimplSharpData.dat:820b61c48c8a2cace82957eed4cc377c
 MainAssemblyResource=SimplSharpData.dat.der:bf862965c00f3e6ec535e4e00e82d30c
@@ -16,6 +16,14 @@ DependencyMainAssembly=Crestron.SimplSharpPro.DM.dll:bdf5acfa80cc3bb87f21deb8911
 DependencySource=Crestron.SimplSharpPro.EthernetCommunications.dll:36e663497195140ee6f1b4ebc53f5ea7
 DependencyPath=SIMPLSharpProTemplate.cpz:Crestron.SimplSharpPro.EthernetCommunications.dll
 DependencyMainAssembly=Crestron.SimplSharpPro.EthernetCommunications.dll:36e663497195140ee6f1b4ebc53f5ea7
+ü
+DependencySource=Crestron.SimplSharpPro.Lighting.dll:5a4a355db03b075b1e731469c0440a86
+DependencyPath=SIMPLSharpProTemplate.cpz:Crestron.SimplSharpPro.Lighting.dll
+DependencyMainAssembly=Crestron.SimplSharpPro.Lighting.dll:5a4a355db03b075b1e731469c0440a86
+ü
+DependencySource=Crestron.SimplSharpPro.Shades.dll:7061e8c8e7e8a57e2bc5a156e037f70b
+DependencyPath=SIMPLSharpProTemplate.cpz:Crestron.SimplSharpPro.Shades.dll
+DependencyMainAssembly=Crestron.SimplSharpPro.Shades.dll:7061e8c8e7e8a57e2bc5a156e037f70b
 ü
 DependencySource=Crestron.SimplSharpPro.UI.dll:089312a0cb0b4537072d4eb234e71e0e
 DependencyPath=SIMPLSharpProTemplate.cpz:Crestron.SimplSharpPro.UI.dll
