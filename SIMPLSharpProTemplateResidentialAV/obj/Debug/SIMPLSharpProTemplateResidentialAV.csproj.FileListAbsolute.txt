@@ -1,0 +1,13 @@
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpProTemplateResidentialAV\bin\Debug\SIMPLSharpProTemplate.dll
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpProTemplateResidentialAV\bin\Debug\SIMPLSharpProTemplate.pdb
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpProTemplateResidentialAV\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpProTemplateResidentialAV\bin\Debug\Crestron.SimplSharpPro.DM.dll
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpProTemplateResidentialAV\bin\Debug\Crestron.SimplSharpPro.EthernetCommunications.dll
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpProTemplateResidentialAV\bin\Debug\Crestron.SimplSharpPro.UI.dll
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpProTemplateResidentialAV\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpProTemplateResidentialAV\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpProTemplateResidentialAV\bin\Debug\SimplSharpPro.exe
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpProTemplateResidentialAV\bin\Debug\Newtonsoft.Json.Compact.dll
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpProTemplateResidentialAV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpProTemplateResidentialAV\obj\Debug\SIMPLSharpProTemplate.dll
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplateResidentialAV\SIMPLSharpProTemplateResidentialAV\obj\Debug\SIMPLSharpProTemplate.pdb

@@ -1,0 +1,13 @@
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplate\SIMPLSharpProTemplate\bin\Debug\SIMPLSharpProTemplate.dll
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplate\SIMPLSharpProTemplate\bin\Debug\SIMPLSharpProTemplate.pdb
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplate\SIMPLSharpProTemplate\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplate\SIMPLSharpProTemplate\bin\Debug\Crestron.SimplSharpPro.UI.dll
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplate\SIMPLSharpProTemplate\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplate\SIMPLSharpProTemplate\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplate\SIMPLSharpProTemplate\bin\Debug\SimplSharpPro.exe
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplate\SIMPLSharpProTemplate\bin\Debug\Newtonsoft.Json.Compact.dll
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplate\SIMPLSharpProTemplate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplate\SIMPLSharpProTemplate\obj\Debug\SIMPLSharpProTemplate.dll
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplate\SIMPLSharpProTemplate\obj\Debug\SIMPLSharpProTemplate.pdb
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplate\SIMPLSharpProTemplate\bin\Debug\Crestron.SimplSharpPro.DM.dll
+C:\Users\chzth\OneDrive\Projects\SIMPLSharpProTemplate\SIMPLSharpProTemplate\bin\Debug\Crestron.SimplSharpPro.EthernetCommunications.dll

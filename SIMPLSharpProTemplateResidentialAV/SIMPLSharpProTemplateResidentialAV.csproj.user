@@ -1,0 +1,11 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <DeployDeviceID>C98AFF24-EABF-46CE-83C6-D06E85899CCD</DeployDeviceID>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <RemoteDebugEnabled>true</RemoteDebugEnabled>
+    <StartAction>Program</StartAction>
+    <StartProgram>\Simpl\App02\SimplSharpPro.exe</StartProgram>
+    <StartArguments>02 SIMPLSharpProTemplate</StartArguments>
+  </PropertyGroup>
+</Project>
